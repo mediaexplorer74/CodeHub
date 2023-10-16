@@ -4,7 +4,7 @@ CodeHub is a Universal Windows GitHub client that helps you keep up with the ope
 
 ## About this fork
 My fork is aimed at supporting Windows 10 Mobile devices from version 15063. 
-Please not that I also used another fork: https://github.com/RetroHunGamer/CodeHub
+Please note that I also used another fork: https://github.com/RetroHunGamer/CodeHub
 
 ## Features
 * Trending repositories
