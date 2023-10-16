@@ -27,7 +27,7 @@ Please not that I also used another fork: https://github.com/RetroHunGamer/CodeH
  
 ## Setting up the project 
 * [Register](https://github.com/settings/developers) your OAuth application. Use "https://example.com/path" as callback url. 
-*  After app registation, paste generated key and secret in the `app.config` file in the root of the project.
+*  After app registation, paste generated key and secret in the `app.config` file in the root of CodeHub project.
 
 ## Credits / Reference
 - https://github.com/aalok05 Aalok Singh aka aalok05
